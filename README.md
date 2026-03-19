@@ -208,7 +208,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## 👨‍💻 Author
 
 **Haruki Mizuno**
-- GitHub: [@0x0Zeus](https://github.com/0x0zeus)
+- GitHub: [@snow9351](https://github.com/0x0zeus)
 
 ## 🙏 Acknowledgments
 
