@@ -6,7 +6,7 @@
 [![iOS](https://img.shields.io/badge/iOS-14.1+-lightgrey.svg)](https://developer.apple.com/ios/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-![](https://github.com/0x0Zeus/coina-cryptocurrency-app/blob/main/resources/app_landing_screen.png?raw=true)
+![](https://github.com/@snow9351/coina-cryptocurrency-app/blob/main/resources/app_landing_screen.png?raw=true)
 
 > A modern cryptocurrency mobile application built with Kotlin Multiplatform Mobile (KMM) for Android and iOS platforms.
 
@@ -14,7 +14,7 @@
 
 | Android | iOS |
 |---------|-----|
-| ![](https://github.com/0x0Zeus/coina-cryptocurrency-app/blob/main/resources/Screenshot%202022-12-30%20at%2010.32.59%20AM.png?raw=true) | ![](https://github.com/0x0Zeus/coina-cryptocurrency-app/blob/main/resources/Screenshot%202022-12-30%20at%2011.29.07%20AM.png?raw=true) |
+| ![](https://github.com/@snow9351/coina-cryptocurrency-app/blob/main/resources/Screenshot%202022-12-30%20at%2010.32.59%20AM.png?raw=true) | ![](https://github.com/@snow9351/coina-cryptocurrency-app/blob/main/resources/Screenshot%202022-12-30%20at%2011.29.07%20AM.png?raw=true) |
 
 ## 🚀 Description
 
@@ -102,15 +102,15 @@ This project demonstrates several key concepts in mobile development:
 ## 📊 Application Flow
 
 ### User Journey
-![](https://github.com/0x0Zeus/coina-cryptocurrency-app/blob/main/resources/User%20Flow.jpg?raw=true)
+![](https://github.com/@snow9351/coina-cryptocurrency-app/blob/main/resources/User%20Flow.jpg?raw=true)
 
 ### Feature Architecture
-![](https://github.com/0x0Zeus/coina-cryptocurrency-app/blob/main/resources/Feature%20Flow.jpg?raw=true)
+![](https://github.com/@snow9351/coina-cryptocurrency-app/blob/main/resources/Feature%20Flow.jpg?raw=true)
 
 ## 📸 Media Resources
 
-- **Screenshots**: [View all application screenshots](https://github.com/0x0zeus/coina-cryptocurrency-app/tree/main/resources)
-- **Demo Video**: [Platform comparison video](https://github.com/0x0zeus/coina-cryptocurrency-app/blob/main/resources/Compare%20Platforms.mp4)
+- **Screenshots**: [View all application screenshots](https://github.com/@snow9351/coina-cryptocurrency-app/tree/main/resources)
+- **Demo Video**: [Platform comparison video](https://github.com/@snow9351/coina-cryptocurrency-app/blob/main/resources/Compare%20Platforms.mp4)
 
 ## 💻 Development Requirements
 
@@ -136,7 +136,7 @@ This project demonstrates several key concepts in mobile development:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/0x0zeus/coina-cryptocurrency-app.git
+git clone https://github.com/@snow9351/coina-cryptocurrency-app.git
 cd coina-cryptocurrency-app
 ```
 
@@ -208,7 +208,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## 👨‍💻 Author
 
 **Haruki Mizuno**
-- GitHub: [@snow9351](https://github.com/0x0zeus)
+- GitHub: [@snow9351](https://github.com/@snow9351)
 
 ## 🙏 Acknowledgments
 
